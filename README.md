@@ -3,7 +3,8 @@
 # 🍫 Chocolate Sales Report - Power BI Dashboard  
 ![Report on Chocolate Sales 2](https://github.com/user-attachments/assets/615f8d3a-5344-4429-bb25-dcd77434b0f0)
 
-
+## Dataset Used
+- <a href = "https://github.com/johnonyebuchi91/Power-BI-Chocolate-Sales-Report-1-/blob/main/Chocolate%20Sale%20Report.pbix">Chocolate_Sale_1_Dataset</a>
 
 ## 📌 Overview  
 This Power BI project provides an **interactive dashboard** for analyzing **chocolate product sales** across different countries, tracking revenue, shipment trends, and product performance.  
